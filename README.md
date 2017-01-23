@@ -14,6 +14,7 @@
 8. Tunisia HDX (Humanitarian data baseline) https://data.humdata.org/dataset/tun_baseline_data 
 9. Global terrorism database http://start.umd.edu/gtd/search/Results.aspx?country=208
 10. Grants and others financial assistance from USA Spending to Tunisia between 2008 and 2017 https://www.usaspending.gov/
+11. List of the municipalities coordinates (contains the new municipalities -scraped from http://baladia.marsad.tn/nouvelles_municipalites)
 
 ## Portail open data nationaux :
 
